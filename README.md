@@ -1,0 +1,1 @@
+# Solid-Waste-Management-In-LPU-CHE110
