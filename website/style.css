@@ -1,0 +1,65 @@
+h1 {
+    text-align: center;
+    font-size: 100%;
+
+    background-color: rgb(211, 202, 182);
+    border-bottom: blue;
+    outline: darkblue;
+    border-radius: 100px;
+    border-inline-start-style: groove;
+}
+
+.photo {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.text-area {
+    margin: 23px;
+    border: 2px solid red;
+    padding: 23px;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+    text-align: center;
+    font-size: 7px;
+    font-style: italic;
+    border: 50%;
+    background-color: tomato;
+    border-bottom: blue;
+    outline: darkblue;
+    border-radius: 10px;
+    border-inline-start-style: groove;
+}
+h3{
+    text-align: center;
+    background-color: chocolate;
+    border: 50%;
+    border-radius: 100px;
+}
+li{
+    font-style: italic;
+}
+h4{
+    text-align: center;
+    background-origin: padding-box;
+    background-color: rgb(203, 203, 219);
+    border-radius: 70px;
+    font-size: xx-large;
+    font-style: italic;
+}
+h5{
+    text-align: center;
+    border-color: blue;
+    border-radius: 5px;
+    background-color: rgb(180, 180, 204);
+}
